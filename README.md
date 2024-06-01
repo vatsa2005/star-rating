@@ -4,6 +4,6 @@
 
 ## You can see the props in App.js
 
-## Dependancies to be installed
+## Dependencies to be installed
 
 - ```npm install @mui/icons-material @mui/material @emotion/styled @emotion/react```
