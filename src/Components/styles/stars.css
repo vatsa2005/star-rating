@@ -1,0 +1,17 @@
+.stars {
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
+
+.stars__clickable {
+    display: inline-block;
+}
+
+.stars__clickable:hover {
+    cursor: pointer;
+}
+
+.stars p {
+    text-transform: capitalize;
+}
