@@ -1,4 +1,4 @@
-# Star Rating Component
+# React Star Rating Component
 
 ## Copy the Stars.js and stars.css files.
 
